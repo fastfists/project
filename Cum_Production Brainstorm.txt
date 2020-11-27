@@ -1,0 +1,13 @@
+Qi is a known value = Sum of Oil 1 through 12
+Qec ???? - rate at which things are profitable 
+D ??? - Decline rate fraction - Prob from Oil 1thru12
+
+Qt = e^[-D(1/D)ln(Qi/Qec)]
+Qt = e^[-ln(Qi/Qec)]
+Qt = Qec/Qi - Simplified version of Rate of Initial Prod
+
+(Qi/D)ln(Qi^2/Qec)
+
+//This is with a *$*1 = $40 
+Assuming *$*1/barrel 
+Economic Limit is $2.5k
